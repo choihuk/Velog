@@ -9,3 +9,5 @@
 
 - [ELK & Grafana Loki [로그 시스템 1]](https://velog.io/@choihuk/ELK-Grafana-Loki-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-1#promtail)
 - [Grafana Loki Stack으로 로그 시스템 구축 [로그 시스템 2]](https://velog.io/@choihuk/Grafana-Loki-Stack%EC%9C%BC%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-2)
+- [logback을 활용하여 로그를 json 형식으로 파싱하기 [로그 시스템 3]](https://velog.io/@choihuk/logback%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A1%9C%EA%B7%B8%EB%A5%BC-json-%ED%98%95%EC%8B%9D%EC%9C%BC%EB%A1%9C-%ED%8C%8C%EC%8B%B1%ED%95%98%EA%B8%B0-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-3)
+- [JSON 형식의 로그를 promtail로 라벨링하여 출력하기 [로그 시스템 4]](https://velog.io/@choihuk/JSON-%ED%98%95%EC%8B%9D%EC%9D%98-%EB%A1%9C%EA%B7%B8%EB%A5%BC-promtail%EB%A1%9C-%EB%9D%BC%EB%B2%A8%EB%A7%81%ED%95%98%EC%97%AC-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-4)
