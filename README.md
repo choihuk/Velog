@@ -15,3 +15,7 @@
 ### 모니터링 시스템
 
 - [Grafana로 API 및 데이터 접근 계층 응답 시간 시각화하기](https://velog.io/@choihuk/Grafana%EB%A1%9C-API-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%91%EA%B7%BC-%EA%B3%84%EC%B8%B5-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%8B%9C%EA%B0%81%ED%99%94%ED%95%98%EA%B8%B0)
+
+### 멀티모듈 도입기
+
+- [기존 프로젝트의 개선점 분석](https://velog.io/@choihuk/%EA%B8%B0%EC%A1%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EA%B0%9C%EC%84%A0%EC%A0%90-%EB%B6%84%EC%84%9D-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%93%88-%EB%8F%84%EC%9E%85%EA%B8%B0-1)
