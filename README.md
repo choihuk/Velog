@@ -19,3 +19,5 @@
 ### 멀티모듈 도입기
 
 - [기존 프로젝트의 개선점 분석](https://velog.io/@choihuk/%EA%B8%B0%EC%A1%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EA%B0%9C%EC%84%A0%EC%A0%90-%EB%B6%84%EC%84%9D-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%93%88-%EB%8F%84%EC%9E%85%EA%B8%B0-1)
+- [프로젝트 구조 설계](https://velog.io/@choihuk/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%93%88-%EB%8F%84%EC%9E%85%EA%B8%B0-2-iefg5ghb)
+- [도메인 모듈 분리](https://velog.io/@choihuk/%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%B6%84%EB%A6%AC-%EA%B8%B0%EC%A4%80-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%93%88-%EB%8F%84%EC%9E%85%EA%B8%B0-3)
